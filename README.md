@@ -2,7 +2,7 @@
   
 <img src="https://i.imgur.com/L0cJi7V.gif" />
 
-[![Linkedin: guilherme-emanoel](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-emanoel/)](https://www.linkedin.com/in/guilherme-emanoel/)
-[![GitHub: Default-404](https://img.shields.io/github/followers/Default-404?label=Github&style=social)](https://github.com/Default-404)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guiemanoeloliveira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-emanoel/)
 
 </div>
