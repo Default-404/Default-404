@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/Default-404">
-   <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Default-404&&show_icons=true&theme=aura&include_all_commits=true"/> &ensp;
-   <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Default-404&layout=compact&langs_count=7&theme=aura"/>
+   <img alt="Guilherme Emanoel's GitHub Stats" height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Default-404&&show_icons=true&theme=aura&include_all_commits=true" title="Guilherme Emanoel's GitHub Stats"> &ensp;
+   <img alt="Guilherme Emanoel's Most Used Languages" height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Default-404&layout=compact&langs_count=7&theme=aura" title="Guilherme Emanoel's Most Used Languages">
   </a>
 </div>
 
@@ -30,6 +30,6 @@
 ## :arrow_right: Contact and Social
 
 <div>
-  <a href = "mailto:guiemanoeloliveira@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-emanoel/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guiemanoeloliveira@hotmail.com"><img alt="LinkedIn" src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="blank" title="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/guilherme-emanoel/" target="blank"><img alt="Outlook" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank" title="Outlook"></a>
 </div>
