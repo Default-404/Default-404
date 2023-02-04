@@ -31,6 +31,6 @@
 ## :arrow_right: Contact and Social
 
 <div>
-  <a href = "mailto:guiemanoeloliveira@hotmail.com"><img alt="Outlook" src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="blank" title="Outlook"></a>
-  <a href="https://www.linkedin.com/in/guilherme-emanoel/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank" title="LinkedIn"></a>
+  <a href="mailto:guiemanoeloliveira@hotmail.com"><img alt="Outlook" src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" title="Outlook"></a>
+  <a href="https://www.linkedin.com/in/guilherme-emanoel/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"></a>
 </div>
